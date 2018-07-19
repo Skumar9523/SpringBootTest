@@ -27,6 +27,7 @@ import com.stackroute.movieapp.controllers.MovieController;
 import com.stackroute.movieapp.domain.Movie;
 import com.stackroute.movieapp.services.MovieServiceImpl;
 
+
 @RunWith(SpringRunner.class)
 @WebMvcTest(MovieController.class)
 public class MovieControllerTest {
